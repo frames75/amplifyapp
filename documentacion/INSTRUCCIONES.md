@@ -18,4 +18,6 @@ frontend:
     build:
       commands:
         - mv src/aws-exports.dev.js src/aws-exports.js
+        - npx browserslist --update-db
+        - yarn run build
 ```
