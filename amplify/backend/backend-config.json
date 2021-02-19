@@ -24,5 +24,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "amplifyNotesStorage": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
