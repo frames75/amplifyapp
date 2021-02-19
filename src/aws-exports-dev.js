@@ -12,7 +12,8 @@ const awsmobile = {
     "aws_appsync_region": "eu-west-1",
     "aws_appsync_authenticationType": "API_KEY",
     "aws_appsync_apiKey": "da2-6xsbf2u27ng5ljonvtjd2neklq"
+    "aws_user_files_s3_bucket": "amplifynotesstorage84547-staging",
+    "aws_user_files_s3_bucket_region": "eu-west-1"
 };
-
 
 export default awsmobile;
